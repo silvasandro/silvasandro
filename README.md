@@ -2,7 +2,7 @@
 <h3 align="center">A Web Developer student</h3>
 
 <h4 align="center">- 
- 💬 Learn about ** JavaScript, HTML, CSS, Reactjs, Nodejs, Typescript  **
+ 💬 Learn about ** Typescript, HTML, CSS, Reactjs, Nodejs   **
 </h4>
 
 
