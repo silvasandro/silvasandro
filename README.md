@@ -15,8 +15,8 @@
 
 [<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />](https://www.linkedin.com/in/eusanjr/)
 
- 
- 
+ [<img src="  https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white " />](https://www.linkedin.com/in/eusanjr/)
+
  
  
  
