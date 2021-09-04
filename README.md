@@ -5,8 +5,6 @@
  💬 Learn about ** back / front - end   **
 </h4>
 
-
-
 ###
 
 <span align="center">
@@ -14,7 +12,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=silvasandro&theme=radical&show_icons=true) 
 
 
- [<img src="  https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white " />](https://www.linkedin.com/in/eusanjr/)
+ [<img src="  https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white " />]
 
  
  
