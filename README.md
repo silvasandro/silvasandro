@@ -28,7 +28,6 @@
  
 
  
-</span>
 
 <svg fill="none" viewBox="0 0 800 50" width="800" height="50" xmlns="http://www.w3.org/2000/svg">
 	<foreignObject width="100%" height="100%">
@@ -70,3 +69,5 @@
 		</div>
 	</foreignObject>
 </svg>
+
+	</span>
