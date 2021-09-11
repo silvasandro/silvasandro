@@ -9,8 +9,7 @@
 
 <span align="center">
  
-[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=silvasandro&theme=radical&show_icons=true) 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=silvasandro&theme=radical&show_icons=true) 
 
  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/eusanjr/)
  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
