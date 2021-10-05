@@ -9,6 +9,8 @@
  💬 Learn about Back / front - end 
 </h4>
 
+
+	
 ###
 
 <span align="center">
@@ -19,6 +21,8 @@
  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+ <img src="https://img.shields.io/static/v1?label=EMail&message=SandroSilva&color=7159c1&style=for-the-badge&logo=ghost"/>
+
 
 
 	
@@ -36,5 +40,8 @@
 <img alt="JitPack" src="https://img.shields.io/jitpack/v/github/silvasandro/https://github.com/silvasandro/silvasandro/edit/main/README.md?style=flat-square">
 
 -->
+![eusanjr](https://i.pinimg.com/originals/03/a4/a5/03a4a5f034bf0bafa661fd8a8aabedc8.gif)
+	
  </span>
+	
 
