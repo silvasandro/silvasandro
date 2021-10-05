@@ -1,5 +1,9 @@
 <h1 align="center">Hi people <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Sandro Silva</h1>
 <h3 align="center">A Web Developer student</h3>
+<span align="center">
+<h6>
+<i> Graduated in Systems Analysis and Development && Studying Software Engineering </i>
+</h6>
 
 <h4 align="center">- 
  💬 Learn about Back / front - end 
@@ -12,8 +16,10 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=silvasandro&theme=radical&show_icons=true) 
 
  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/eusanjr/)
+ <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+
 
 	
 <!-- 
