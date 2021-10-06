@@ -24,8 +24,8 @@
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=silvasandro&theme=radical&show_icons=true) 
 
- [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/eusanjr/)
-[![Gmail Badge](https://img.shields.io/badge/-sandrosilva_2005@yahoo.com.br-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sandrosilva_2005@yahoo.com.br)](mailto:sandrosilva_2005@yahoo.com.br)
+[![Linkedin Badge](https://img.shields.io/badge/-Sandro%20Silva-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eusanjr/)](https://www.linkedin.com/in/eusanjr/)
+	[![Gmail Badge](https://img.shields.io/badge/-sandrosilva_2005@yahoo.com.br-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sandrosilva_2005@yahoo.com.br)](mailto:sandrosilva_2005@yahoo.com.br)
 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -37,6 +37,8 @@
 
 	
 <!-- 
+ [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/eusanjr/)
+
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 ![NPM](https://img.shields.io/badge/NPM-CB3837.svg?logo=npm)
