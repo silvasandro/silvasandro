@@ -6,10 +6,10 @@
 	
 </h6>
 
-<h3>
-  Programming student, passionate about technology, rpg's and coffee. 
+<h5>
+  Programming student, passionate about technology, rpg's and coffee. <br/>
   I believe we can change the world around us and become better and more evolved people through code.
-</h3>
+</h5>
 
 	
 <h4 align="center">- 
