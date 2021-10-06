@@ -3,8 +3,15 @@
 <span align="center">
 <h6>
 <i> Graduated in Systems Analysis and Development && Studying Software Engineering </i>
+	
 </h6>
 
+<h3>
+  Programming student, passionate about technology, rpg's and coffee. 
+  I believe we can change the world around us and become better and more evolved people through code.
+</h3>
+
+	
 <h4 align="center">- 
  💬 Learn about Back / front - end 
 </h4>
@@ -18,13 +25,25 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=silvasandro&theme=radical&show_icons=true) 
 
  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/eusanjr/)
- <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+[![Gmail Badge](https://img.shields.io/badge/-sandrosilva_2005@yahoo.com.br-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sandrosilva_2005@yahoo.com.br)](mailto:sandrosilva_2005@yahoo.com.br)
 
 
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
+![Nodejs](https://img.shields.io/badge/NodeJs-339933.svg?logo=node.js&logoColor=white)
 
 	
 <!-- 
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+ <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+![NPM](https://img.shields.io/badge/NPM-CB3837.svg?logo=npm)
+![Yarn](https://img.shields.io/badge/Yarn-2C8EBB.svg?logo=yarn&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
  <img src="https://img.shields.io/static/v1?label=EMail&message=SandroSilva&color=7159c1&style=for-the-badge&logo=ghost"/>
  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -40,7 +59,11 @@
 <img alt="JitPack" src="https://img.shields.io/jitpack/v/github/silvasandro/https://github.com/silvasandro/silvasandro/edit/main/README.md?style=flat-square">
 
 -->
+
 ![eusanjr](https://i.pinimg.com/originals/03/a4/a5/03a4a5f034bf0bafa661fd8a8aabedc8.gif)
+	
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=silvasandro.silvasandro)
 	
  </span>
 	
