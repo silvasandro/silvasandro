@@ -13,7 +13,7 @@
 
 	
 <h4 align="center">- 
- 💬 Learn about Back / front - end 
+ 💬 Learn about front - end 
 </h4>
 
 
