@@ -25,7 +25,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=silvasandro&theme=radical&show_icons=true) 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Sandro%20Silva-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eusanjr/)](https://www.linkedin.com/in/eusanjr/)
-	[![Gmail Badge](https://img.shields.io/badge/-sandrosilva_2005@yahoo.com.br-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sandrosilva_2005@yahoo.com.br)](mailto:sandrosilva_2005@yahoo.com.br)
+	[![Gmail Badge](https://img.shields.io/badge/-eusanjr@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sandrosilva_2005@yahoo.com.br)](mailto:sandrosilva_2005@yahoo.com.br)
 	
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
