@@ -66,9 +66,9 @@
 
 -->
 
-![eusanjr](https://giphy.com/embed/f3iwJFOVOwuy7K6FFw)
-	
+![eusanjr]( <iframe src="https://giphy.com/embed/f3iwJFOVOwuy7K6FFw" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe> )
 
+	
 	
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=silvasandro.silvasandro)
 	
