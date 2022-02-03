@@ -66,7 +66,7 @@
 
 -->
 
-![eusanjr]( <src="https://giphy.com/embed/f3iwJFOVOwuy7K6FFw" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen> )
+![eusanjr](https://i.pinimg.com/originals/03/a4/a5/03a4a5f034bf0bafa661fd8a8aabedc8.gif)
 
 	
 	
