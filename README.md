@@ -66,7 +66,8 @@
 
 ![eusanjr](https://i.pinimg.com/originals/03/a4/a5/03a4a5f034bf0bafa661fd8a8aabedc8.gif)
 	
-
+<iframe src="https://giphy.com/embed/f3iwJFOVOwuy7K6FFw" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Pluralsight-man-development-developer-f3iwJFOVOwuy7K6FFw">via GIPHY</a></p>
+	
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=silvasandro.silvasandro)
 	
  </span>
