@@ -61,12 +61,14 @@
  <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img alt="JitPack" src="https://img.shields.io/jitpack/v/github/silvasandro/https://github.com/silvasandro/silvasandro/edit/main/README.md?style=flat-square">
+![eusanjr](https://i.pinimg.com/originals/03/a4/a5/03a4a5f034bf0bafa661fd8a8aabedc8.gif)
+
 
 -->
 
-![eusanjr](https://i.pinimg.com/originals/03/a4/a5/03a4a5f034bf0bafa661fd8a8aabedc8.gif)
+![eusanjr](<iframe src="https://giphy.com/embed/f3iwJFOVOwuy7K6FFw" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>)
 	
-<iframe src="https://giphy.com/embed/f3iwJFOVOwuy7K6FFw" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Pluralsight-man-development-developer-f3iwJFOVOwuy7K6FFw">via GIPHY</a></p>
+
 	
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=silvasandro.silvasandro)
 	
