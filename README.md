@@ -8,7 +8,6 @@
 	
 	
 </h6>
-![JAVA](https://img.shields.io/badge/-JAVA-E34F26?style=flat-square&logo=html5&logoColor=white)
 
 <h5>
   Programming student, passionate about technology, rpg's and coffee. <br/>
@@ -24,6 +23,9 @@
 ###
 
 <span align="center">
+	
+![JAVA](https://img.shields.io/badge/-JAVA-E34F26?style=flat-square&logo=html5&logoColor=white)
+	
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=silvasandro&theme=radical&show_icons=true) 
 
