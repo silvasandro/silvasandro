@@ -3,6 +3,7 @@
 <span align="center">
 <h6>
 <i> Graduated in Systems Analysis and Development && Studying Software Engineering </i>
+	<br />
 <i> Entry Level Software Developer na Philips</i>
 	
 	
