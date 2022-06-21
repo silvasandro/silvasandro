@@ -8,13 +8,13 @@
 	
 	
 </h6>
+![JAVA](https://img.shields.io/badge/-JAVA-E34F26?style=flat-square&logo=html5&logoColor=white)
 
 <h5>
   Programming student, passionate about technology, rpg's and coffee. <br/>
   I believe we can change the world around us and become better and more evolved people through code.
 </h5>
 
-	
 <h4 align="center">- 
  💬 Learn about front/back - end 
 </h4>
